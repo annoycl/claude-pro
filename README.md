@@ -1,5 +1,5 @@
 
-#🔥Claude最强使用攻略！手把手教你用上这个比ChatGPT更聪明的AI，非常方便，10分钟搞定～
+# 🔥Claude最强使用攻略！手把手教你用上这个比ChatGPT更聪明的AI，非常方便，10分钟搞定～
 
 你可能听说过ChatGPT，但有个更聪明的AI叫Claude！最新版Claude Sonnet 3.5能听懂复杂要求，对话连贯自然到像真人。很多用户都说：做方案、写剧本、改论文，Claude比ChatGPT更好用！
 
