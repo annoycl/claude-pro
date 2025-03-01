@@ -1,5 +1,4 @@
-
-# 🔥最新版Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何订阅Claude Pro会员？手把手教学 10 分钟搞定
+#🔥最新版Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何订阅Claude Pro会员？手把手教学 10 分钟搞定
 
 你可能听说过ChatGPT，但有个更聪明的AI叫Claude！最新版Claude Sonnet 3.5能听懂复杂要求，对话连贯自然到像真人。很多用户都说：做方案、写剧本、改论文，Claude比ChatGPT更好用！
 
@@ -10,6 +9,17 @@
 - ✅ 支持按月续订
 
 注意：如果你身在中国大陆，并且想要订阅Claude Pro会员（或者说是订阅Claude Sonnet）的话，就必须提前做好以下准备工作，每一步都至关重要，绝不能忽略！
+
+## 目录导航
+本文较长，提供目录大家可以快速定位。
+- [Claude是什么？](#claude是什么)
+- [Claude 免费版有限制吗？](#claude-免费版有限制吗)
+- [Claude Pro是什么？](#claude-pro是什么)
+- [Claude Pro好用吗？](#claude-pro好用吗)
+- [如何快速获取一张国外虚拟信用卡？Claude能用国内信用卡/银行卡支付吗](#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗)
+- [Claude pro 怎么访问？](#claude-pro-怎么访问)
+- [Claude pro 怎么被封号了怎么办？](#claude-pro-怎么被封号了怎么办)
+
 
 <blockquote>
 
@@ -28,7 +38,7 @@
    - 不支持支付方式：
      * 中国大陆银行卡/信用卡
      * 中国香港/澳门地区银行卡
-   - 推荐方案：申请<a href="https://yeka.ai/i/GPT66">野卡虚拟信用卡</a>
+   - 推荐方案：申请 <a href="https://yeka.ai/?code=GPT66"> 野卡虚拟信用卡 </a>
    - 详细教程：文章下方提供具体申请步骤
 
 4. 国外手机号<本文提供替代方案>
@@ -47,7 +57,7 @@ Claude是国外Anthropic公司开发的智能聊天机器人，类似ChatGPT。�
 ## Claude Pro是什么？
 Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和更强的上下文处理能力，支持一次最多输入100K tokens，是免费版所无法媲美的。对于高频用户，订阅Claude Pro不仅解锁了无限次调用权限，还提供了优先使用Claude Sonnet模型的特权，确保即使在繁忙时段也能享受流畅稳定的服务。此外，Claude Pro用户还可在使用过程中体验Anthropic推出的其他功能优化，例如Claude 3 Opus，这一版本专为特定场景和复杂任务进行了深度优化。
 
-每月20美元（约145元人民币）。主要升级：
+每月20美元（约145元人民币）。主要功能点：
 1. 不限次数随便用
 2. 处理内容长度翻3倍
 3. 优先使用最新最强模型
@@ -71,7 +81,7 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 当然啦，大家可能会对虚拟卡有点疑问，关于虚拟卡可以点击 [Wildcard 虚拟信用卡是什么？WildCard 靠谱吗？ Wildcard 如何使用？](https://chatgptzh.com.cn/wildcard/)
 
 
-## Claude pro 怎么访问？Claude pro 怎么避免被封号？
+## Claude pro 怎么访问？
 国内上网有特殊限制，所以像Google、Facebook这些国外网站都打不开，Claude这样的AI工具也一样访问不了。要用Claude的话，你得先想办法解决上网问题。具体怎么解决我就不多说了，大家自己找靠谱的工具就好。
 最近Claude对中国用户还没开放，而且很多人因为IP地址的问题被封号了 - 听说基本上每个人都被封过好几次账号！所以呢，为了保住你的账号，一定要用那种特别稳定、能连接美国服务器的上网工具。
 
