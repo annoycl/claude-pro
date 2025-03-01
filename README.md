@@ -10,17 +10,6 @@
 
 注意：如果你身在中国大陆，并且想要订阅Claude Pro会员（或者说是订阅Claude Sonnet）的话，就必须提前做好以下准备工作，每一步都至关重要，绝不能忽略！
 
-## 目录导航
-本文较长，提供目录大家可以快速定位。
-- [Claude是什么？](#claude是什么)
-- [Claude 免费版有限制吗？](#claude-免费版有限制吗)
-- [Claude Pro是什么？](#claude-pro是什么)
-- [Claude Pro好用吗？](#claude-pro好用吗)
-- [如何快速获取一张国外虚拟信用卡？Claude能用国内信用卡/银行卡支付吗](#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗)
-- [Claude pro 怎么访问？](#claude-pro-怎么访问)
-- [Claude pro 怎么被封号了怎么办？](#claude-pro-怎么被封号了怎么办)
-
-
 <blockquote>
 
 ## 注册 Claude 必备条件
@@ -47,6 +36,17 @@
    - 解决方案：详见下文具体操作指南
 
 </blockquote>
+
+## 目录导航
+本文较长，提供目录大家可以快速定位。
+- [Claude是什么？](#claude是什么)
+- [Claude 免费版有限制吗？](#claude-免费版有限制吗)
+- [Claude Pro是什么？](#claude-pro是什么)
+- [Claude Pro好用吗？](#claude-pro好用吗)
+- [如何快速获取一张国外虚拟信用卡？Claude能用国内信用卡/银行卡支付吗](#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗)
+- [Claude pro 怎么访问？](#claude-pro-怎么访问)
+- [Claude pro 怎么被封号了怎么办？](#claude-pro-怎么被封号了怎么办)
+
 
 ## Claude是什么？
 Claude是国外Anthropic公司开发的智能聊天机器人，类似ChatGPT。最新版本Claude 3.5能理解超长内容（相当于7.5万单词），处理复杂对话和数据分析特别厉害，比很多同类AI更擅长处理工作文件、写报告这些专业任务。
